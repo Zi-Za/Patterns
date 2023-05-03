@@ -1,0 +1,25 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zi-Za/Patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zi-Za/Patterns/issues"
+  },
+  "homepage": "https://github.com/Zi-Za/Patterns#readme",
+  "dependencies": {
+    "mongodb": "^5.3.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
